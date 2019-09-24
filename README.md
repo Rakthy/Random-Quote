@@ -1,2 +1,2 @@
-# Random-Quote
+# Random-Quote-Generator
  Project-1
